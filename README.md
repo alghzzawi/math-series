@@ -5,7 +5,7 @@
 ## Author: Mohammad alghzawi
 
 ## Links and Resources
-* ### None
+* ### PR: https://github.com/alghzzawi/math-series/pull/2
 
 ## Setup
 * ### python 3.9.5
